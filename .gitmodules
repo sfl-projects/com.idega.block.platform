@@ -36,7 +36,7 @@
 	url = git://github.com/idega/com.idega.dwr.git
 [submodule "com.idega.block.article"]
 	path = com.idega.block.article
-	url = git://github.com/idega/com.idega.block.article.git
+	url = git@github.com:hugveitan/com.idega.block.article.git
 [submodule "com.idega.developer"]
 	path = com.idega.developer
 	url = git://github.com/idega/com.idega.developer.git
@@ -60,7 +60,7 @@
 	url = git://github.com/idega/com.idega.block.login.git
 [submodule "com.idega.content"]
 	path = com.idega.content
-	url = git://github.com/idega/com.idega.content.git
+	url = git@github.com:hugveitan/com.idega.content.git
 [submodule "com.idega.hibernate"]
 	path = com.idega.hibernate
 	url = git://github.com/idega/com.idega.hibernate.git
